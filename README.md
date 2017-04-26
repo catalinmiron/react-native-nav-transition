@@ -1,6 +1,6 @@
 ### React Native Nav transition
 
-__[React native nav transition](https://dribbble.com/shots/2209627-UI8-Nav) by [Creativedash](https://dribbble.com/Creativedash)__
+__[Nav transition](https://dribbble.com/shots/2209627-UI8-Nav) by [Creativedash](https://dribbble.com/Creativedash)__
 
 Exponent: https://exp.host/@catalinmiron/react-native-nav-transition
 
