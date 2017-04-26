@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "react-native-nav-transition",
+    "description": "Learning by doing 8/∞",
+    "slug": "react-native-nav-transition",
+    "privacy": "public",
+    "sdkVersion": "16.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "https://s3.amazonaws.com/exp-brand-assets/ExponentEmptyManifest_192.png",
+    "loading": {
+      "icon": "https://s3.amazonaws.com/exp-brand-assets/ExponentEmptyManifest_192.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
