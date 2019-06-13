@@ -1,3 +1,9 @@
+### Would you like to support me?
+
+<a href="https://www.buymeacoffee.com/catalinmiron" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+----
+
 ### React Native Nav transition
 
 __[Nav transition](https://dribbble.com/shots/2209627-UI8-Nav) by [Creativedash](https://dribbble.com/Creativedash)__
